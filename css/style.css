@@ -1,0 +1,40 @@
+.inline{
+  
+    display: inline;
+    margin-top: 0.5%;
+    font-family: 'Satisfy', cursive;
+    font-size: 2pc;
+}
+
+
+
+header div{
+
+    float: right;
+    margin-top: .5%;
+    
+}
+
+div{
+    background-image: url(img/list-bg.png);
+}
+main p{
+    margin-top: 2%;
+   
+}
+
+main h1 {
+    margin-bottom: 0%;
+}
+
+.p1{
+    margin-top: 0%;
+   
+}
+
+main img{
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+
