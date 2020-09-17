@@ -1,12 +1,25 @@
+/* body{
+    margin-left: 5pc;
+    margin-right: 5pc;
+} */
 .inline{
-  
+    
     display: inline;
-    margin-top: 0.5%;
-    font-family: 'Satisfy', cursive;
     font-size: 2pc;
 }
 
+.imgrow{
+margin-top: 2%;
+}
+#delicious { 
+    font-family: 'Yellowtail', cursive;
 
+}
+#blog {
+    font-family: 'Abel', sans-serif;
+    font-size: 10px;
+
+}
 
 header div{
 
@@ -28,6 +41,7 @@ main h1 {
 }
 
 .p1{
+
     margin-top: 0%;
    
 }
@@ -35,6 +49,68 @@ main h1 {
 main img{
     background-repeat: no-repeat;
     width: 100%;
+    position: relative;
+}
+#big{
+    position: relative;
+    top: 10px;
 }
 
+#rep{
+    margin-top: 2.5%;
+    background-image: url(/img/hr-img.png);
+    background-size: 3px 10px ;
+    background-repeat: repeat-x;
+    width: 100%;
+}
+#lasttwo {
+    margin-left: 10px;
+}
+#chocp{
+    position: relative;
+    top: 30px;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    font-size: 2pc;
+    }
 
+#post{
+    font-family: 'Abel', sans-serif;
+    font-weight: 500;
+    color: rgb(167, 167, 167);
+    font-size: 12px;
+    text-transform: uppercase ;
+    position: relative;
+    top: -20px;
+}
+#figure {
+    font-family: 'Abel', sans-serif;
+    font-weight: 500;
+    color: rgb(167, 167, 167);
+    font-size: 12px;
+    position: relative;
+    left: 3%;
+    bottom: 60px;
+    text-transform: uppercase;
+}
+.filltext{
+    font-size: 30px;
+    margin: 10px;
+    color: rgb(121, 121, 121);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-indent: 3%;
+}
+#list{
+    
+    /* list-style-type: square; */
+    color: rgb(126, 124, 124);
+    font-family: 'Patrick Hand', cursive;
+    background-repeat: no-repeat;
+    background-image: url(/img/list-bg.png);
+    
+}
+.checkbox { 
+    border: 1px solid black; 
+    width: .65em; 
+    height: .65em; 
+    margin-right: 4px;
+}
