@@ -110,8 +110,13 @@ main img{
     background-repeat: no-repeat;
     background-size: cover;
     background-size: 100% 400px;
+<<<<<<< HEAD
     
     
+=======
+    
+    
+>>>>>>> 852afe87647e1af171f5ea00bbde0c559e2ef77c
 }
 .list{
     position: relative;
@@ -151,7 +156,11 @@ main img{
     font-weight: 700;
     float: right;
     position: relative;
+<<<<<<< HEAD
     right: 67%;
+=======
+    right: 69%;
+>>>>>>> 852afe87647e1af171f5ea00bbde0c559e2ef77c
     top: 18px;
 }
 #lasttext{
